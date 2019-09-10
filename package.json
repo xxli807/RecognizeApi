@@ -1,0 +1,25 @@
+{
+  "name": "recognizeapi",
+  "version": "1.0.0",
+  "description": "hackathon",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxli807/RecognizeApi.git"
+  },
+  "author": "xinxin.li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxli807/RecognizeApi/issues"
+  },
+  "homepage": "https://github.com/xxli807/RecognizeApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
